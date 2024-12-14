@@ -4,7 +4,8 @@
 - Some of my projects are in Finnish, like my Finnish language code collection.
 - I like to write in C# and python. I know how to use arduino.
 - I am currently practicing C++.
-- I don't like javascript. Yuk!
+
+JavaScript has a cycle. You like it for a month, you hate for two. Double the durations and repeat.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
